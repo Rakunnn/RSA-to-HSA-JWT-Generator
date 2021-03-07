@@ -1,7 +1,7 @@
 '''
 JWT Signature - RS256 to HS256
 
-A script based on guide made to payload of things: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/JSON%20Web%20Token#jwt-signature---rs256-to-hs256
+
 Note: 'Make sure the public.pem file is on the same directory of the script
 
 JWT tokens format is: <header>.<payload>.<secret>
